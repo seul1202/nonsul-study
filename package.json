@@ -1,0 +1,10 @@
+{
+  "name": "nonsul-study",
+  "private": true,
+  "scripts": {
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "staticrypt": "3.5.4"
+  }
+}
